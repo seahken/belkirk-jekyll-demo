@@ -1,0 +1,26 @@
+---
+label: Products
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Name
+  name: name
+  config:
+    required: true
+- type: text
+  name: short_description
+  label: Short Description
+- type: textarea
+  name: description
+  label: Description
+- type: number
+  name: price
+  label: Price
+  config:
+    step: '0.01'
+- type: file
+  name: image
+  label: Image
+  config:
+    maxSize: '2'
