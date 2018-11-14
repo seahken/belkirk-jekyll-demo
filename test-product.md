@@ -11,6 +11,5 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu
   officia deserunt mollit anim id est laborum.
 price: 0.01
 image: "/uploads/2018/02/17/bridge.jpg"
-published: false
 
 ---
