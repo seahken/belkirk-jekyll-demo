@@ -24,3 +24,5 @@ fields:
   label: Image
   config:
     maxSize: '2'
+pages:
+- test-product.md
